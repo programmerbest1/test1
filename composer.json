@@ -1,8 +1,8 @@
 {
     "name": "programmerbest1/test1",
-    "description": "my first test project v01",
+    "description": "my first test project v02",
     "type": "project",
-    "version": "1.0",
+    "version": "2.0",
     "require": {
     },
         "extra": {
