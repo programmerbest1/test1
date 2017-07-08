@@ -1,0 +1,7 @@
+{
+    "name": "programmerbest1/test1",
+    "description": "my first test project",
+    "require": {
+        "test1/inc001": "1.*"
+    }
+}
