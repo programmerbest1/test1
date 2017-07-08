@@ -2,12 +2,7 @@
     "name": "programmerbest1/test1",
     "description": "my first test project v03",
     "type": "project",
-    "version": "3.0",
+    "version": "1.0",
     "require": {
-    },
-        "extra": {
-        "branch-alias": {
-            "1.x-1.x-dev": "1.x-dev"
-        }
     }
 }
