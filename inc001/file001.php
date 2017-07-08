@@ -4,6 +4,6 @@ echo "<br>";
 
 echo "file001 incleded successfully..";
 
-ecoh "<br>";
+echo "<br>";
 
 ?>
