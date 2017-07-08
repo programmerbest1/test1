@@ -7,7 +7,7 @@
     },
         "extra": {
         "branch-alias": {
-            "3.x-1.x-dev": "3.x-dev"
+            "1.x-1.x-dev": "1.x-dev"
         }
     }
 }
