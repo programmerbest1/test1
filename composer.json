@@ -3,7 +3,7 @@
     "description": "my first test project",
     "require": {
         "test1/inc001": "1.*"
-    }
+    },
     "extra": {
         "branch-alias": {
             "3.x-1.x-dev": "3.x-dev"
