@@ -1,11 +1,11 @@
 {
-    "name": "programmerbest1/test2",
+    "name": "programmerbest1/test1",
     "description": "my first test project v02",
     "require": {
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.2.x-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
