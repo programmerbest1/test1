@@ -4,5 +4,10 @@
     "type": "project",
     "version": "1.0",
     "require": {
+    },
+        "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
